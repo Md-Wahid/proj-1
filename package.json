@@ -1,0 +1,27 @@
+{
+  "name": "proj-1",
+  "version": "1.0.0",
+  "description": "MEAN Stack web app. MongoDB, Express, Angular & Node are used to develop/bulid this simple CRUD application or project. This is just for learning purpose.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Node",
+    "CRUD"
+  ],
+  "author": "Md. Wahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1",
+    "morgan": "^1.9.1",
+    "save": "^2.4.0"
+  }
+}
